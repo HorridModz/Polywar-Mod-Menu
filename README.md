@@ -7,3 +7,5 @@ I accidentally made a bad commit, and I couldn't figure out how to revert it. Af
 WIP Mod Menu for the game POLYWAR
 
 This is not finished yet! Do not try to use it.
+
+**Disclaimer: THIS REPOSITORY IS FOR EDUCATIONAL PURPOSES. I AM NOT LIABLE FOR ANY MISUSE.**
